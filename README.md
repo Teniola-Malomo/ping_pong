@@ -1,3 +1,5 @@
+# ping pong
+
 A classic ping-pong game made using the turtle and Tkinter module.
 
 Each file is responsible for each component of the game and constructed using OOP; 
